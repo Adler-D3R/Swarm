@@ -1,5 +1,9 @@
 # Swarm 🔥
 
+![](https://img.shields.io/badge/Version-1.1.1-red?style=for-the-badge&color=fa0000&labelColor=292929)
+![](https://img.shields.io/badge/Platform-Linux-red?style=for-the-badge&color=fa0000&labelColor=292929)
+![](https://img.shields.io/badge/Language-C-red?style=for-the-badge&color=fa0000&labelColor=292929)
+
 ### 1. Overview and Features ⚙️
 ---
 
